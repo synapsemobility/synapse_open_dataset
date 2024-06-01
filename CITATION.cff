@@ -1,0 +1,10 @@
+cff-version: 0.0.1
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Singh"
+  given-names: "Apoorv"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Synapse Open Dataset"
+version: 2.0.4
+date-released: 2024-05-25
+url: "https://apoorvroboticist.github.io/synapse_open_dataset.github.io/"
