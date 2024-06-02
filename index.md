@@ -18,6 +18,7 @@ Perspective view of a scene in the USD (Universal Scene Description) warehouse.
 
 ## BEV view of the Warehouse
 Full BEV view of the first version of the dataset showing multiple columns and rows as aisles, along with a 2D BEV map on top-right. 
+
 <img width="800" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/72b44af2-1053-4575-83b6-b3280a359fe1">
 
 * * *
@@ -27,14 +28,30 @@ We curated this dataset based on multiple site visits to the warehouse to minimi
 TODO
 
 ### Humans
+<img width="868" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/52f49d99-c19f-4576-9f0f-018cb1bf0e43">
 
-### Robots/ Forklifts
+
+### Forklifts
+
+<img width="860" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/f285067c-ef7c-41af-9386-756d35dd7ae9">
+
+### Other Robots
+
+<img width="865" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/c8f28878-062a-4e22-8896-bef0bac0ac04">
+
 
 ### Misc. Warehouse items
 
+<img width="812" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/6e00b23b-9fae-40c2-85e0-45996ccaf9c7">
+
+
 ### Shelves
 
+<img width="730" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/850795a9-9389-4dd3-b28b-d21326bcdc6c">
+
+
 # Sensors Suite
+TODO
 
 # How to cite
 
