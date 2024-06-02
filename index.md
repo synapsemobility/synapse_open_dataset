@@ -5,6 +5,7 @@ Synapse Open Dataset is a multi-view camera dataset that is especially targeted 
 ## Dataset: link TODO
 
 ## Warehouse Scenario
+Perspective view of a scene in the USD (Universal Scene Description) warehouse. 
 <img width="800" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/ead2c00a-7fcf-4731-b279-5c7ce453712e">
 
 ## Available Annotations
@@ -16,12 +17,14 @@ Synapse Open Dataset is a multi-view camera dataset that is especially targeted 
 <img width="800" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/14a682b1-a9ff-40f5-b88c-17908872b5ec">
 
 ## BEV view of the Warehouse
+Full BEV view of the first version of the dataset showing multiple columns and rows as aisles, along with a 2D BEV map on top-right. 
 <img width="800" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/72b44af2-1053-4575-83b6-b3280a359fe1">
 
 * * *
 # Diverse Scenarios
 We curated this dataset based on multiple site visits to the warehouse to minimize the real-world and synthetic data domain gap. It contains various assets that mimic any real-world warehouse.
 ### Random lighting
+TODO
 
 ### Humans
 
@@ -31,7 +34,7 @@ We curated this dataset based on multiple site visits to the warehouse to minimi
 
 ### Shelves
 
-# Sensors and Annotations
+# Sensors Suite
 
 # How to cite
 
