@@ -8,12 +8,17 @@ Synapse Open Dataset is a multi-view camera dataset that is especially targeted 
 <img width="800" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/ead2c00a-7fcf-4731-b279-5c7ce453712e">
 
 ## Available Annotations
+* Dense Depth Estimation
+* 3D/ 2D Detection Bounding Boxes
+* Surface Normal Estimation
+* Instance/ Semantic Segmentations
+  
 <img width="800" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/14a682b1-a9ff-40f5-b88c-17908872b5ec">
 
 ## BEV view of the Warehouse
 <img width="800" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/72b44af2-1053-4575-83b6-b3280a359fe1">
 
-
+* * *
 # Diverse Scenarios
 We curated this dataset based on multiple site visits to the warehouse to minimize the real-world and synthetic data domain gap. It contains various assets that mimic any real-world warehouse.
 ### Random lighting
