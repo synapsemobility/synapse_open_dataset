@@ -82,7 +82,7 @@ If you are using this dataset, please cite using:
 author = {Singh, Apoorv},
 month = may,
 title = {{Synapse Open Dataset}},
-url = {https://apoorvroboticist.github.io/synapse_open_dataset.github.io/},
+url = {https://https://synapsemobility.github.io/synapse_open_dataset/},
 version = {2.0.4},
 year = {2024}
 }
