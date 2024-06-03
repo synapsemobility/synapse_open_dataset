@@ -78,12 +78,11 @@ We curated this dataset based on multiple site visits to the warehouse to minimi
 If you are using this dataset, please cite using:
 
 ```
-@software{Singh_Synapse_Open_Dataset_2024,
-author = {Singh, Apoorv},
-month = may,
-title = {{Synapse Open Dataset}},
-url = {https://https://synapsemobility.github.io/synapse_open_dataset/},
-version = {2.0.4},
-year = {2024}
-}
+@misc{sodv12024,
+  author = {Apoorv Singh, Alka Choudhary},
+  title = {Synapse Open Dataset},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://synapsemobility.github.io/synapse_open_dataset/}},}
 ```
