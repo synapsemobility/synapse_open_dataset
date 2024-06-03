@@ -23,7 +23,21 @@ Full BEV view of the first version of the dataset showing multiple columns and r
 
 * * *
 # Diverse Scenarios
-We curated this dataset based on multiple site visits to the warehouse to minimize the real-world and synthetic data domain gap. It contains various assets that mimic any real-world warehouse.
+We curated this dataset based on multiple site visits to the warehouse to minimize the real-world and synthetic data domain gap. It contains various assets that mimic any real-world warehouse. Sample meta_data.json:
+```
+{
+    "warehouse_version": "v2", 
+    "dataset_version": "0.0.1",
+    "modality": "camera_only",
+    "camera_list": ["cam_front", "cam_right", "cam_left", "cam_back"],
+    "random_lighting": true,
+    "forklifts": false, 
+    "humans": false, 
+    "misc_warehouse_items": false,
+    "robots": false
+}
+```
+
 ### Randomness in Lighting
 ![image](https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/a4da071d-ad52-4c55-9973-ef12afc322ff)
 
