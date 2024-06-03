@@ -6,6 +6,10 @@ Synapse Open Dataset v1: Multi-view cameras in 74.8*36 m^2 warehouse. Link comin
 
 ## Dataset:
 [Dataset_v1](https://drive.google.com/drive/u/3/folders/1NZjuwP6osCelOG8H9QNm9wooHqaO4VKm): Multi-view camera images with annotations as instance/ semantic segmentation, 2D/ 3D bounding boxes, surface normal estimation, dense-depth estimation. 
+```
+pip install gdown
+gdown 1r_yl1CNzIlOi-Kn-ieQSUDtUSFDCI_56
+```
 
 ## Warehouse Scenario
 Perspective view of a scene in the USD (Universal Scene Description) warehouse. 
