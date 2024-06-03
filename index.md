@@ -76,5 +76,12 @@ We curated this dataset based on multiple site visits to the warehouse to minimi
 If you are using this dataset, please cite using:
 
 ```
-TODO
+@software{Singh_Synapse_Open_Dataset_2024,
+author = {Singh, Apoorv},
+month = may,
+title = {{Synapse Open Dataset}},
+url = {https://apoorvroboticist.github.io/synapse_open_dataset.github.io/},
+version = {2.0.4},
+year = {2024}
+}
 ```
