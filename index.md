@@ -2,7 +2,8 @@
 Synapse Open Dataset is a multi-view camera dataset that is especially targeted at warehouse autonomous mobile robots (AMRs). This dataset is created using Isaac simulator from Nvidia.
 
 ## Paper: link TODO
-## Dataset: link TODO
+## Dataset:
+Dataset_v1: Multi-view camera images with annotations as instance/ semantic segmentation, 2D/ 3D bounding boxes, surface normal estimation, dense-depth estimation. 
 
 ## Warehouse Scenario
 Perspective view of a scene in the USD (Universal Scene Description) warehouse. 
@@ -76,5 +77,4 @@ If you are using this dataset, please cite using:
 
 ```
 TODO
-
 ```
