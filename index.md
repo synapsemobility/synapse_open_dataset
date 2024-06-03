@@ -25,7 +25,8 @@ Full BEV view of the first version of the dataset showing multiple columns and r
 # Diverse Scenarios
 We curated this dataset based on multiple site visits to the warehouse to minimize the real-world and synthetic data domain gap. It contains various assets that mimic any real-world warehouse.
 ### Random lighting
-TODO
+![image](https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/a4da071d-ad52-4c55-9973-ef12afc322ff)
+
 
 ### Humans
 <img width="868" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/52f49d99-c19f-4576-9f0f-018cb1bf0e43">
@@ -51,7 +52,8 @@ TODO
 
 
 # Sensors Suite
-TODO
+![image](https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/9b1d8f82-343f-4c7a-a08f-77ba6ae71968)
+
 
 # How to cite
 
