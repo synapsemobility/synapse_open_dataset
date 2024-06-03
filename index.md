@@ -39,7 +39,7 @@ We curated this dataset based on multiple site visits to the warehouse to minimi
 ```
 
 ### Randomness in Lighting
-![image](https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/a4da071d-ad52-4c55-9973-ef12afc322ff)
+<img width="800" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/a4da071d-ad52-4c55-9973-ef12afc322ff">
 
 
 ### Randomness in Humans
