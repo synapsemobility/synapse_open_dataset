@@ -66,7 +66,8 @@ We curated this dataset based on multiple site visits to the warehouse to minimi
 
 
 # Sensors Suite
-![image](https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/9b1d8f82-343f-4c7a-a08f-77ba6ae71968)
+![image](https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/3ad9a5d7-f721-4a42-9985-72b5f6bea9a5)
+
 
 
 # How to cite
