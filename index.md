@@ -43,26 +43,26 @@ We curated this dataset based on multiple site visits to the warehouse to minimi
 
 
 ### Randomness in Humans
-<img width="868" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/52f49d99-c19f-4576-9f0f-018cb1bf0e43">
+<img width="800" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/52f49d99-c19f-4576-9f0f-018cb1bf0e43">
 
 
 ### Ramdomness in Forklifts
 
-<img width="860" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/f285067c-ef7c-41af-9386-756d35dd7ae9">
+<img width="800" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/f285067c-ef7c-41af-9386-756d35dd7ae9">
 
 ### Randomness in other Robots
 
-<img width="865" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/c8f28878-062a-4e22-8896-bef0bac0ac04">
+<img width="800" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/c8f28878-062a-4e22-8896-bef0bac0ac04">
 
 
 ### Randomness in Misc. Warehouse items
 
-<img width="812" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/6e00b23b-9fae-40c2-85e0-45996ccaf9c7">
+<img width="800" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/6e00b23b-9fae-40c2-85e0-45996ccaf9c7">
 
 
 ### Randomness in Shelves
 
-<img width="730" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/850795a9-9389-4dd3-b28b-d21326bcdc6c">
+<img width="800" alt="image" src="https://github.com/synapsemobility/synapse_open_dataset/assets/163760520/850795a9-9389-4dd3-b28b-d21326bcdc6c">
 
 
 # Sensors Suite
