@@ -82,8 +82,12 @@ We curated this dataset based on multiple site visits to the warehouse to minimi
 If you are using this dataset, please cite using:
 
 ```
-@article{singhsynapse,
-  title={Synapse Open Dataset: A dataset for warehouse robots},
-  author={Singh, Apoorv and Choudhary, Alka}
+@unknown{unknown,
+author = {Singh, Apoorv and Choudhary, Alka},
+year = {2024},
+month = {07},
+pages = {},
+title = {Synapse Open Dataset: A dataset for warehouse robots},
+doi = {10.13140/RG.2.2.12804.54408}
 }
 ```
