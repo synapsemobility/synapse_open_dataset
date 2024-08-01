@@ -82,11 +82,8 @@ We curated this dataset based on multiple site visits to the warehouse to minimi
 If you are using this dataset, please cite using:
 
 ```
-@misc{sodv12024,
-  author = {Apoorv Singh, Alka Choudhary},
-  title = {Synapse Open Dataset},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://synapsemobility.github.io/synapse_open_dataset/}},}
+@article{singhsynapse,
+  title={Synapse Open Dataset: A dataset for warehouse robots},
+  author={Singh, Apoorv and Choudhary, Alka}
+}
 ```
